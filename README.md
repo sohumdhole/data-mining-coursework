@@ -1,20 +1,11 @@
-# Churn Prediction – Week 1
+# Data Mining Coursework
 
-This project predicts customer churn using **Logistic Regression** and **AdaBoost** classifiers.  
-It was developed as part of my MSc coursework in Data Mining.  
+This repository contains my MSc Business Analytics coursework projects for the **Data Mining** module.  
+Each week’s project is organized in a separate folder with its own README.
 
-## Files
-- `src/ChurnPrediction_LR.py` → Logistic Regression model  
-- `src/ChurnPrediction_AdaBoost.py` → AdaBoost model  
-- `data/ChurnPrediction.csv` → Dataset used for training/testing  
+## Projects
 
-## Key Learnings
-- Applying supervised learning models to real-world churn data  
-- Comparing ensemble methods with baseline classifiers  
-- Evaluating model accuracy and insights  
+- [Week 1 – Churn Prediction](Week1-ChurnPrediction)  
+  Logistic Regression & AdaBoost models for predicting customer churn.
 
-## How to Run
-```bash
-python src/ChurnPrediction_LR.py
-python src/ChurnPrediction_AdaBoost.py
-```
+
